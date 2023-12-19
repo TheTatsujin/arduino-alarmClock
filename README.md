@@ -28,9 +28,9 @@ This project was developed as the final assignment for the **Peripherals and Int
 #### Serial
 - **4x20 LCD**: MILFORD 11357
 
-![Project Schematic](/doc/img/implementation-diagram.png)
+> ![Project Schema](/doc/img/implementation-diagram.png)
 
 ## Installation and Usage
-[Provide instructions on setting up or using the project.]
+The installation should be pretty straight-forward, add all the files to the project and load it
 
 
